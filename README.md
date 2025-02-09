@@ -1,7 +1,7 @@
 # wifi-intercom
 :bulb: Project for Design Laboratory classes at AGH
 
-:bookmark_tabs: Microcontroller: ESP32-CAM
+:bookmark_tabs: Microcontroller: ESP32-CAM & ESP32-WROOM-32D
 
 ----------------------------------------------------------------------------
 ### "THE BEER-WARE LICENSE" (Revision 42):
